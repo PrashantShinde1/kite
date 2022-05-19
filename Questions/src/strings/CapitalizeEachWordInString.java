@@ -8,5 +8,6 @@ public static void main(String[] args) {
 	System.out.println("Enter the String");
 	String a= Scan.next();
 	System.out.println(a.toUpperCase());
+	// Edited
 }
 }
